@@ -1,10 +1,13 @@
 # Seletiva_Embarcados_Robcin
 
+main.cpp = codigo da entrega final 
+readGyro.cpp = codigo que le o arquivo csv
+
 Projeto de embarcados para a seletiva do robin
 
-NO REPOSITÓRIO TEM 2 CÓDIGOS , UM QUE É A VERSÃO FINALIZADA DO QUE LÊ O LOG DO CSV( se for rodar lembra de trocar o path pra onde o arquivo ta )E O OUTRO QUE TESTEI NO PRÓPIO SENSOR NO ROBÔCIN 
+NO REPOSITÓRIO TEM 2 CÓDIGOS , UM QUE É A VERSÃO QUE LÊ O LOG DO CSV( se for rodar lembra de trocar o path pra onde o arquivo ta )E O OUTRO QUE TESTEI NO PRÓPIO SENSOR NO ROBÔCIN 
 
-O CODIGO PRA COLOCAR NO ROBO É O PROJETO_COMPLETO.CPP , BASTA COLOCAR ELE PRA RODAR AO INVES DA MAIN DO SSL EMBEDED QUE ESTA TUDO CERTO
+O CODIGO PRA COLOCAR NO ROBO É O MAIN.CPP , BASTA COLOCAR ELE PRA RODAR AO INVES DA MAIN DO SSL EMBEDED QUE ESTA TUDO CERTO
 
 PREFERI DEIXAR TUDO NO MESMO CODIGO POR SIMPLICIDADE NA HORA DE RODAR
 
